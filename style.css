@@ -1,0 +1,45 @@
+*{
+margin:0%;
+padding: 0%;
+background-color: black;
+border-radius:15px;
+
+}
+.write{
+height: 400px;
+width: 355px;
+padding: 10px;
+margin: 10%;
+background-color: teal;
+}
+input{
+font-size:25px;
+padding: 10px;
+text-align:right;
+font-color:green;
+margin-bottom: 17px;
+color:turquoise;
+}
+
+.button{
+width: 80px;
+height: 50px;
+position: relative;
+font-size: 25px;
+text-align: center;
+font-style: italic;
+cursor: pointer;
+background: transparent;
+border-radius:15px;
+}
+.button:hover{
+color:white;
+}
+.equal{
+width: 170px;
+height: 50px;
+text-align: center;
+background-color:black;
+font-size: 25px;
+cursor:pointer;
+}
